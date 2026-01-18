@@ -1,0 +1,46 @@
+.label-peso {
+    -fx-font-family: 'Courier New';
+    -fx-background-color: #4CAF50;
+    -fx-font-size: 16px;
+    -fx-margin-bottom: 5px;
+    -fx-text-fill: White;
+    -fx-font-weight: 'bold';
+}
+
+.label-altura {
+    -fx-font-family: 'Courier New';
+    -fx-background-color: #4CAF50;
+    -fx-font-size: 16px;
+    -fx-margin-bottom: 5px;
+    -fx-text-fill: White;
+    -fx-font-weight: 'bold';
+}
+
+.campo-peso {
+    -fx-font-family: 'Courier New';
+    -fx-font-size: 14px;
+    -fx-text-fill: Black;
+}
+
+.campo-altura {
+    -fx-font-family: 'Courier New';
+    -fx-font-size: 14px;
+    -fx-text-fill: Black;
+}
+
+.botao-calcular {
+    -fx-font-family: 'Verdana';
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: White;
+    -fx-font-size: 14px;
+    -fx-padding: 10px 20px;
+}
+
+.label-resultado {
+    -fx-font-family: 'Courier New';
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333;
+    -fx-font-weight: 'bold';
+    -fx-margin-top: 10px;
+    -fx-background-color: White;
+}
